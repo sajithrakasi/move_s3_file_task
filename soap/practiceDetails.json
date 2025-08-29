@@ -1,0 +1,91 @@
+{
+    "group1": [
+      {
+        "searchRequest": {
+          "officeId": "1959031",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      },
+      {
+        "searchRequest": {
+          "officeId": "1612",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      },
+      {
+        "searchRequest": {
+          "officeId": "19560",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      }
+    ],
+    "group2": [
+      {
+        "searchRequest": {
+          "officeId": "1612",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      },
+      {
+        "searchRequest": {
+          "officeId": "1",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      },
+      {
+        "searchRequest": {
+          "officeId": "17",
+          "activeOnly": true,
+          "dob": "12/12/2001",
+          "firstName": "Rosy",
+          "lastName": "Testpatient",
+          "pageNumber": "1",
+          "pageSize": "100",
+          "phone": "9047524080",
+          "updatedSince": "27/02/2025 12:00 AM",
+          "patientId": "10526816"
+        }
+      }
+    ]
+  }
+  
